@@ -1,0 +1,2 @@
+# Django Banking Tutorial for Begineers
+This repository provides a comprehensive guide for beginners to build a basic banking application using Django, a powerful Python web framework. The tutorial walks you through setting up the project, creating user accounts, managing transactions, and implementing essential banking features. It's designed to help you understand the fundamentals of Django while applying them to a real-world project. Perfect for those new to Django or looking to enhance their web development skills with a practical example.
